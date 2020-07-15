@@ -13,8 +13,8 @@
     <div class="max-w-4xl md:max-w-5xl lg:max-w-6xl mx-auto flex mb-10 pl-4">
         <div class="w-2/3 flex flex-col justify-center">
             <div class="relative">
-                <div class="p-4 bg-indigo-600 text-white inline-block text-xl sm:text-2xl md:text-4xl lg:text-5xl">Kunst aus</div>
-                <div class="p-4 bg-indigo-600 text-white inline-block text-xl sm:text-2xl md:text-4xl lg:text-5xl absolute"
+                <div class="p-2 sm:p-4 bg-indigo-600 text-white inline-block text-lg sm:text-2xl md:text-4xl lg:text-5xl">Kunst aus</div>
+                <div class="p-2 sm:p-4 bg-indigo-600 text-white inline-block text-lg sm:text-2xl md:text-4xl lg:text-5xl absolute"
                      style="top:50px;">Königswinter
                 </div>
             </div>
