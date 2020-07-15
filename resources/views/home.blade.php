@@ -72,7 +72,7 @@
             Dann ist das Werk fertig.
             Glück und Zufriedenheit erfüllen mich.</p>
 
-        <div class="flex items-center justify-center bg-indigo-600 text-white text-lg p-24 h-40 my-6">
+        <div class="flex items-center justify-center bg-indigo-600 text-white text-lg p-16 sm:p-24 sm:h-40 my-6">
             <div>
                 "Seit acht Jahren bearbeite ich Steine, jedesmal ist es eine neue Herausforderung, ein Abenteuer."
                 <span class="text-sm pl-6 italic">Rita Herttrich</span>
