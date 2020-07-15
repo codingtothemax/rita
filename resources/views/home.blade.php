@@ -120,7 +120,7 @@
             Zusammen mit befreundeten Künstlern stellte ich meine Kunst auf mehreren Veranstaltungen aus.
             <ul class="inline-block space-y-4 mt-4 text-white bg-indigo-600 p-4">
                 <li><a href="https://ga.de/region/siebengebirge/koenigswinter/neue-kunstaustellung-im-kunstforum-in-koenigswinter_aid-46176841" class="underline hover:no-underline">Erste Austellung im Palastweiher 2019</a></li>
-                <li><a href="https://ga.de/region/siebengebirge/koenigswinter/bilder-und-skulpturen-ausstellung-im-palastweiher-in-koenigswinter_aid-51554613" class="underline hover:no-underline">Zweite Austellung ebenfalls im Palastweiher im Sommer 2020</a></li>
+                <li><a href="https://ga.de/region/siebengebirge/koenigswinter/bilder-und-skulpturen-ausstellung-im-palastweiher-in-koenigswinter_aid-51554613" class="underline hover:no-underline">Zweite Austellung im Palastweiher im Sommer 2020</a></li>
             </ul>
         </div>
     </div>
@@ -129,7 +129,7 @@
 <footer class="bg-gray-300">
     <div class="h-64 bg-indigo-600" style="clip-path: polygon(0 12%, 100% 0%, 100% 100%, 0 100%);">
         <div class="max-w-3xl mx-auto px-4 text-white pt-24">
-            <p>Alle Kunstwerke wurden durch Rita Herttrich geschaffen. Einige Kunstwerke stehen auch zum Verkauf. Preise auf Anfrage</p>
+            <p>Alle Kunstwerke wurden durch Rita Herttrich geschaffen. Einige Kunstwerke stehen auch zum Verkauf. Preise auf Anfrage.</p>
         </div>
     </div>
 </footer>
